@@ -1,1 +1,1 @@
-add information done! by main
+add information done! by sub
